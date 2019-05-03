@@ -1,0 +1,24 @@
+/* @font-face{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Wendy One', sans-serif;
+} */
+.App {
+  text-align: center;
+}
+.App{
+  background: rgb(235,141,182);
+background: linear-gradient(295deg, rgba(235,141,182,1) 0%, rgba(148,187,233,1) 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+h1,{
+  /* font-family: 'Wendy One', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
