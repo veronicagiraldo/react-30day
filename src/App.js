@@ -5,6 +5,8 @@ import DayTwo from './DayTwo';
 import Home from './Home';
 import Foot from './Foot';
 import DayThree from './DayThree';
+import DayFour from './DayFour';
+import DayFive from './DayFive';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
          <Dayone />
          <DayTwo />
          <DayThree />
+         <DayFour />
+         <DayFive />
       <Foot />
     </div>
   );
