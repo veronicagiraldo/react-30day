@@ -4,6 +4,7 @@ import Dayone from './Dayone';
 import DayTwo from './DayTwo';
 import Home from './Home';
 import Foot from './Foot';
+import DayThree from './DayThree';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
        <Home />
          <Dayone />
          <DayTwo />
+         <DayThree />
       <Foot />
     </div>
   );
